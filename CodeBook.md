@@ -1,6 +1,5 @@
+# function: run_analysis.R
 
-function: run_analysis.R
+## input: none
 
-# input: none
-
-# output: tidyDataSet
+## output: tidyDataSet

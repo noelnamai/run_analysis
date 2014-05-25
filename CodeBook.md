@@ -27,4 +27,12 @@
 
 ### subjectTest
 
-* 
+* Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+
+### subjectTrain
+
+* Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+
+### DoStuff
+
+* Function that appropriately labels the data set with descriptive activity names.

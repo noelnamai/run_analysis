@@ -36,5 +36,5 @@
 ### DoStuff(dataSet, activityLabels)
 
 * Function that appropriately labels the data set with descriptive activity names.
-
-⋅⋅* nm
+  
+  * nm

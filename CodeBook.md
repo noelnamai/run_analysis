@@ -9,7 +9,9 @@
 
 ## output
 
-* tidyDataSet :Tidy data set with the average of each variable for each activity and each subject. 
+### 1. tidyDataSet
+
+* Tidy data set with the average of each variable for each activity and each subject. 
 
 ## variables
 

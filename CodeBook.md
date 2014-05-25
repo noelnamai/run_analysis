@@ -5,31 +5,31 @@
   * A function to collect, work with, and clean a data set. 
   * The output is a tidy data set that can be used for later analysis.
 
-  ## Input
+  ### Input
 
-  ### none
+  #### none
 
-  ## Output
+  ### Output
 
-  ### tidyDataSet
+  #### tidyDataSet
 
   * Tidy data set with the average of each variable for each activity and each subject. 
 
-## Variables
+### Variables
 
-### features
+ #### features
 
-* List of all features.
+ * List of all features.
 
-### activityLabels
+ #### activityLabels
 
-* Links the class labels with their activity name.
+ * Links the class labels with their activity name.
 
-### subjectTest
+ #### subjectTest
 
-* Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+ * Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-### subjectTrain
+ #### subjectTrain
 
 * Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 

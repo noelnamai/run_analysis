@@ -6,3 +6,5 @@
 ## input: none
 
 ## output: tidyDataSet
+
+* Tidy data set with the average of each variable for each activity and each subject. 

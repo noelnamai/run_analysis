@@ -36,4 +36,6 @@
 
 * Function that appropriately labels the data set with descriptive activity names.
   
-  * nm
+  ##### dataSet
+
+  ##### activityLabels

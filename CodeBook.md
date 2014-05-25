@@ -5,11 +5,11 @@
 
 ## input
 
-* none
+### none
 
 ## output
 
-### 1. tidyDataSet
+### tidyDataSet
 
 * Tidy data set with the average of each variable for each activity and each subject. 
 

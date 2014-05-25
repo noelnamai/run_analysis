@@ -42,3 +42,5 @@
    * yTrain
 
   ##### activityLabels
+  
+   * activityLabels: Links the class labels with their activity name.

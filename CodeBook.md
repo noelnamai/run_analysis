@@ -22,25 +22,22 @@
 
 #### activityLabels
 
- * Links the class labels with their activity name.
+ * Dataframe tha links the class labels with their activity name.
 
 #### subjectTest
 
- * Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+ * Dataframe where each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 #### subjectTrain
 
-* Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
+* Dataframe where each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
 #### DoStuff(dataSet, activityLabels)
 
 * Function that appropriately labels the data set with descriptive activity names.
   
-  ##### dataSet
+  ##### Input
 
-   * yTest
-   * yTrain
+   * dataSet: yTest or yTrain dataframe.
 
-  ##### activityLabels
-  
    * activityLabels: Links the class labels with their activity name.

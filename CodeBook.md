@@ -22,7 +22,7 @@
 
 #### activityLabels
 
- * Dataframe tha links the class labels with their activity name.
+ * Dataframe that links the class labels with their activity name.
 
 #### subjectTest
 
@@ -40,4 +40,8 @@
 
    * dataSet: yTest or yTrain dataframe.
 
-   * activityLabels: Links the class labels with their activity name.
+   * activityLabels: Dataframe that links the class labels with their activity name.
+
+  ##### Output
+  
+   * dataSet: Appropriately labels the data set with descriptive activity names.

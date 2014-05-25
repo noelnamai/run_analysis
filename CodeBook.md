@@ -11,7 +11,7 @@
 
   #### tidyDataSet
 
-  * Tidy data set with the average of each variable for each activity and each subject. 
+   * Tidy data set with the average of each variable for each activity and each subject. 
 
 ### Variables
 =============

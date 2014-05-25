@@ -1,5 +1,3 @@
-## Function.
-
 ### run_analysis.R
 
   * A function to collect, work with, and clean a data set. 

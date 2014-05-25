@@ -48,8 +48,16 @@
 
 #### xTest
 
+* Test set. A 561-feature dataframe with time and frequency domain variables. 
+
 #### yTest
+
+* Test labels.
 
 #### xTrain
 
+* Training set. A 561-feature dataframe with time and frequency domain variables. 
+
 #### yTrain
+
+* Train labels.

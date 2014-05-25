@@ -1,19 +1,19 @@
 ## Function.
 
-### run_analysis.R
+  ### run_analysis.R
 
-* A function to collect, work with, and clean a data set. 
-* The output is a tidy data set that can be used for later analysis.
+  * A function to collect, work with, and clean a data set. 
+  * The output is a tidy data set that can be used for later analysis.
 
-## Input
+  ## Input
 
-### none
+  ### none
 
-## Output
+  ## Output
 
-### tidyDataSet
+  ### tidyDataSet
 
-* Tidy data set with the average of each variable for each activity and each subject. 
+  * Tidy data set with the average of each variable for each activity and each subject. 
 
 ## Variables
 

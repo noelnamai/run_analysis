@@ -16,24 +16,25 @@
   * Tidy data set with the average of each variable for each activity and each subject. 
 
 ### Variables
+=============
 
- #### features
+#### features
 
  * List of all features.
 
- #### activityLabels
+#### activityLabels
 
  * Links the class labels with their activity name.
 
- #### subjectTest
+#### subjectTest
 
  * Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
- #### subjectTrain
+#### subjectTrain
 
 * Each row identifies the subject who performed the activity for each window sample. Its range is from 1 to 30. 
 
-### DoStuff(dataSet, activityLabels)
+#### DoStuff(dataSet, activityLabels)
 
 * Function that appropriately labels the data set with descriptive activity names.
   

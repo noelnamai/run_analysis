@@ -45,3 +45,11 @@
   ##### Output
   
    * dataSet: appropriately labels the data set with descriptive activity names.
+
+#### xTest
+
+#### yTest
+
+#### xTrain
+
+#### yTrain

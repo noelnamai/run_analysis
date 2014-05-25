@@ -38,4 +38,7 @@
   
   ##### dataSet
 
+   * yTest
+   * yTrain
+
   ##### activityLabels
